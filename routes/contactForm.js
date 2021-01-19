@@ -8,7 +8,7 @@ var transport = {
     secure:false,
     auth:{
         user: 'akogunolayinka42@gmail.com',
-        pass: 'Covid_master19'
+        pass: '/*password Hidden*/' - //hint - C19
     },
     tls:{
         rejectUnauthorized: false
